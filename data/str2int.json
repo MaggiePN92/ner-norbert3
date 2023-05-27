@@ -1,0 +1,1 @@
+{"B-DRV": 0, "B-EVT": 1, "B-GPE_LOC": 2, "B-GPE_ORG": 3, "B-LOC": 4, "B-ORG": 5, "B-PER": 6, "B-PROD": 7, "I-DRV": 8, "I-EVT": 9, "I-GPE_LOC": 10, "I-GPE_ORG": 11, "I-LOC": 12, "I-ORG": 13, "I-PER": 14, "I-PROD": 15, "O": 16}
