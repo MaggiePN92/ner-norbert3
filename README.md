@@ -1,1 +1,2 @@
 # ner-norbert3
+This repo contains code for Named Entity Recogniton using transformers from the NorBERT3 family. The code was made by me and two fellow students from University of Oslo as an assignment in the master's course Neural methods in NLP. 
